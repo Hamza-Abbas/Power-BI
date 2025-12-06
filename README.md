@@ -28,6 +28,8 @@ Welcome to my analytics portfolio! This repository contains three distinct Power
     * **Brand Performance:** Matrix table analyzing distinct brands (e.g., *Hermanos*, *Ebony*), identifying high-margin products (approx. 60% margins).
     * **KPI Monitoring:** Gauge charts tracking monthly revenue against targets and monitoring return rates (avg 0.99%).
 
+<img width="1287" height="726" alt="image" src="https://github.com/user-attachments/assets/9628d78a-b32e-4e55-8057-f732b124bae0" />
+
 ---
 
 ### 3. 📈 SuperStore Profit Margin Analysis

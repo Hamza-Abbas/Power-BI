@@ -15,6 +15,9 @@ Welcome to my analytics portfolio! This repository contains three distinct Power
     * **Financial Trends:** Area charts tracking the growth of **$86.6B** in total revenue against **$83.0B** in expenses.
     * **Profitability Analysis:** Calculated net profit metrics for major conferences like B10, PAC12, and ACC.
 
+<img width="1281" height="725" alt="image" src="https://github.com/user-attachments/assets/3dc016a6-b764-4c7c-9a35-5f44c770be48" />
+
+
 ---
 
 ### 2. 🛒 Maven Market Sales Report
@@ -42,6 +45,8 @@ Welcome to my analytics portfolio! This repository contains three distinct Power
     * **Regional Benchmarking:** Identified the **West Region** as the most efficient (14.94% margin) compared to the Central Region (7.92%).
     * **Time Series Analysis:** Line charts tracking profit margin volatility from 2017 to 2020.
     * **High-Level KPIs:** Consolidated view of Total Sales (**$2.3M**) and Total Profit (**$286K**).
+
+<img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/3bffe64e-2d75-4203-a676-3f7bb126e608" />
 
 ---
 

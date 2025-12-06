@@ -56,5 +56,5 @@ Welcome to my analytics portfolio! This repository contains three distinct Power
 If you'd like to discuss these projects or my data analysis process, feel free to reach out!
 
 * **GitHub:** [Hamza-Abbas](https://github.com/Hamza-Abbas)
-* **LinkedIn:** [Insert Your LinkedIn URL Here]
-* **Email:** [Insert Your Email Here]
+* **LinkedIn:** (https://www.linkedin.com/in/hamza-abbas-uni-rostock/)
+* **Email:** [hamzaabbas2490@gmail.com]

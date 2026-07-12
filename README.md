@@ -1,6 +1,6 @@
 # 📊 Power BI Data Analytics Portfolio
 
-Welcome to my analytics portfolio! This repository contains three distinct Power BI projects that demonstrate my ability to solve business problems through data visualization, data modeling, and advanced DAX calculations.
+Welcome to my Power BI analytics portfolio! This repository contains three distinct Power BI projects that demonstrate my ability to solve business problems through data visualization, data modeling, and advanced DAX calculations.
 
 ## 🚀 Projects Overview
 

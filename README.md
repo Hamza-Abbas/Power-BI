@@ -60,7 +60,7 @@ Welcome to my Power BI analytics portfolio! This repository contains three disti
 | **Visualization** | Utilized Area Charts, Map visuals, Gauge Charts, and Custom Tooltips for storytelling. |
 
 ## 📬 Connect with Me
-If you'd like to discuss these projects or my data analysis process, feel free to reach out!
+If you'd like to discuss these projects or my data analysis process, feel free to reach out to me.
 
 * **GitHub:** [Hamza-Abbas](https://github.com/Hamza-Abbas)
 * **LinkedIn:** (https://www.linkedin.com/in/hamza-abbas-uni-rostock/)

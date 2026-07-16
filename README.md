@@ -63,5 +63,5 @@ Welcome to my Power BI analytics portfolio! This repository contains three disti
 If you'd like to discuss these projects or my data analysis process, feel free to reach out to me.
 
 * **GitHub:** [Hamza-Abbas](https://github.com/Hamza-Abbas)
-* **LinkedIn:** (https://www.linkedin.com/in/hamza-abbas-uni-rostock/)
+* **LinkedIn:** (https://www.linkedin.com/in/hamza-abbas-data-engineer/)
 * **Email:** [hamzaabbas2490@gmail.com]

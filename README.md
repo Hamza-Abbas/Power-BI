@@ -8,6 +8,7 @@ Welcome to my Power BI analytics portfolio! This repository contains three disti
 **Domain:** Sports Management & Finance
 **Goal:** To analyze the financial health and profitability of major NCAA conferences over a 10 year period (2010–2020).
 
+
 * **The Problem:** Stakeholders needed a consolidated view of revenues versus expenses across different athletic conferences to identify the most profitable organizations.
 * **The Solution:** Developed a comparative financial dashboard to track net profit and expense trends.
 * **Key Features:**
